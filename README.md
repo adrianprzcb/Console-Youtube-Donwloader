@@ -1,4 +1,4 @@
-# consoleYoutubeDonwloader
+# Console Youtube Donwloader
 Python youtube downloader for the CMD.
 The way it works is pretty simple.
 
