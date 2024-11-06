@@ -16,7 +16,7 @@ change *quality* with the quality of video you want: Available: 720p, 480p, 360p
 
 "h" is the highest video quality possible.
 
-It will donwload directly to /YTfolder 
+It will donwload it directly to /YTfolder 
 
 Example of use:
 
